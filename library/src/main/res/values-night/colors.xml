@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="defaultErrorColor">#E57373</color>
+    <color name="defaultErrorLightColor">#C62828</color>
+    <color name="defaultWarningColor">#FFB74D</color>
+    <color name="defaultWarningLightColor">#FF8F00</color>
+    <color name="defaultInfoColor">#81C784</color>
+    <color name="defaultInfoLightColor">#2E7D32</color>
+    <color name="defaultDebugColor">#64B5F6</color>
+    <color name="defaultDebugLightColor">#1565C0</color>
+    <color name="defaultVerboseColor">#AAAAAA</color>
+    <color name="defaultVerboseLightColor">#333333</color>
+</resources>

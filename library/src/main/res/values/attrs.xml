@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ConsoleView">
+        <attr name="viewMode" format="enum">
+            <enum name="recyclerViewMode" value="1" />
+        </attr>
+        <attr name="colorLogError" format="color" />
+        <attr name="colorLogErrorLight" format="color" />
+        <attr name="colorLogWarning" format="color" />
+        <attr name="colorLogWarningLight" format="color" />
+        <attr name="colorLogInfo" format="color" />
+        <attr name="colorLogInfoLight" format="color" />
+        <attr name="colorLogDebug" format="color" />
+        <attr name="colorLogDebugLight" format="color" />
+        <attr name="colorLogVerbose" format="color" />
+        <attr name="colorLogVerboseLight" format="color" />
+    </declare-styleable>
+</resources>
